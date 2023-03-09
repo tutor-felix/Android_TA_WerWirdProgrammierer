@@ -21,7 +21,7 @@ Außerdem wird statt einem End-Dialog bei Spielende ein neues Fragment angezeigt
 
 
 * Greife in Quizmodel auf "questions" zurück und speichere sie in einer Variable "questionsList"
-* Initialisiere "questionIndex"
+* Initialisiere "questionIndex" 
 * Erstelle 3 LiveData-Variablen. Initialisiere - "currentQuestion" mit dem ersten Objekt aus der Liste, "currentPrice" wie "currentQuestion" und "gameOver" auf false
 
 
